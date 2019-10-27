@@ -85,10 +85,10 @@
 
 <script>
 export default {
-  name: 'HelloWorld',
+  name: 'HelloWorld333',
   data () {
     return {
-      msg: 'Welcome111 to Your Vue.js App'
+      msg: 'Welcome333 to Your Vue.js App'
     }
   }
 }
