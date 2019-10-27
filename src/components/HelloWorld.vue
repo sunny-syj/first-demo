@@ -89,6 +89,7 @@ export default {
   data () {
     return {
       msg: 'Welcome222 to Your Vue.js App'
+
     }
   }
 }
